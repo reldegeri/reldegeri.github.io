@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reldegeri.github.io/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/app/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/assets/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/css/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/includes/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/item/sitemap.html.gz
+Sitemap: https://reldegeri.github.io/src/sitemap.html.gz
